@@ -1,0 +1,8 @@
+python==3.6
+\_numpy==1.12.1
+\_sanic==0.8.3
+\_argparse==1.1
+\_json==2.0.9
+\_logging==0.5.1.2
+\_re==2.2.1
+\_boto3==1.5.27

@@ -1,0 +1,4 @@
+# gitignore #
+*.pyo
+*.pyc
+*.log
