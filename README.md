@@ -1,4 +1,4 @@
-# Cogent Digit Sequence Generator
+# MNIST Digit Sequence Generator
 ### Background
 Python API/ CLI / REST Server for generating random numbered sequences (as per digits provided by user) and MNIST data base for digit images.
 
